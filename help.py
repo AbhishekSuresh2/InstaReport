@@ -45,7 +45,7 @@ ${Fore.GREEN}============================== HELP  ==============================
         [ ✔️ ] You can always buy premium version of this tool with more features like
         1. Paid proxy available with tool
         2. Ban confirm (more powerful)
-        3. For more information contact me on telegram
+        3. For more information contact me on whatsapp
          
         ''')
         help_msg()
@@ -53,17 +53,17 @@ ${Fore.GREEN}============================== HELP  ==============================
         clearConsole()
         print('''
         
-        For more help you can directly contact me on https://t.me/CrevilBot
-        Or you can report bugs at https://t.me/Hacker_Chatroom
+        For more help you can directly contact me on wa.me//+919074692450
+        Or you can report bugs at wa.me//+919074692450
 
         [ ✔️ ] You can always buy premium version of this tool with more features like
         1. Paid proxy available with tool
         2. Ban confirm (more powerful)
-        3. For more information contact me on telegram
+        3. For more information contact me on whatsapp
          
         ''')
         help_msg()
-        webbrowser.open('http://t.me/Hacker_Chatroom')
+        webbrowser.open('wa.me//+919074692450')
     elif(int(que_ans)==4):
         clearConsole()
         os.system('python ReportBot.py' if os.name == 'nt' else 'bash run.sh')
