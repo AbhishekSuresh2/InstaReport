@@ -27,8 +27,8 @@ echo " "
 figlet -f Bloody Insta-Hack | lolcat
 
     echo " "
-    echo -e "$Red                                 ⫸ Coded by$Yellow Crevil$Red ⫷\033[0m"
-    echo -e "$Red                               ⫸$Purple t.me/HackerExploits$Red ⫷\033[0m"
+    echo -e "$Red                                 ⫸ Coded by$Yellow Abhishek Suresh$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸$Purple wa.me//+919074692450$Red ⫷\033[0m"
 echo " "
 echo -e " $Green     |---------------------------------------------------------------------------------|"
 echo -e " $Green     ||----------------------------$Cyan [features] $Green----------------------------||"
@@ -68,7 +68,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf InstaReport
-        git clone https://github.com/Crevils/InstaReport
+        git clone https://github.com/AbhishekSuresh2/InstaReport
         cd InstaReport
         bash setup.sh
      
