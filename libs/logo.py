@@ -5,22 +5,19 @@ from libs.animation import colorText
 
 logo = '''
 
-[[black-bright-background]][[red]] ██▓ [[green]]███▄    █  [[blue]] ██████ [[magenta]]▄▄▄█████▓ [[cyan]]▄▄▄         [[red]] ██▀███  [[green]]▓█████ [[blue]] ██▓███   [[magenta]]▒█████   [[cyan]]██▀███  [[yellow]]▄▄▄█████▓[[reset]]
-[[black-bright-background]][[red]]▓██▒ [[green]]██ ▀█   █ ▒[[blue]]██    ▒ [[magenta]]▓  ██▒ ▓▒▒[[cyan]]████▄       [[red]]▓██ ▒ ██▒[[green]]▓█   ▀ [[blue]]▓██░  ██▒▒[[magenta]]██▒  ██▒▓[[cyan]]██ ▒ ██▒[[yellow]]▓  ██▒ ▓▒[[reset]]
-[[black-bright-background]][[red]]▒██▒▓[[green]]██  ▀█ ██▒░[[blue]] ▓██▄   [[magenta]]▒ ▓██░ ▒░▒[[cyan]]██  ▀█▄     [[red]]▓██ ░▄█ ▒[[green]]▒███   [[blue]]▓██░ ██▓▒▒[[magenta]]██░  ██▒▓[[cyan]]██ ░▄█ ▒[[yellow]]▒ ▓██░ ▒░[[reset]]
-[[black-bright-background]][[red]]░██░▓[[green]]██▒  ▐▌██▒ [[blue]] ▒   ██▒[[magenta]]░ ▓██▓ ░ ░[[cyan]]██▄▄▄▄██    [[red]]▒██▀▀█▄  [[green]]▒▓█  ▄ [[blue]]▒██▄█▓▒ ▒▒[[magenta]]██   ██░▒[[cyan]]██▀▀█▄  [[yellow]]░ ▓██▓ ░ [[reset]]
-[[black-bright-background]][[red]]░██░▒[[green]]██░   ▓██░▒[[blue]]██████▒▒[[magenta]]  ▒██▒ ░  [[cyan]]▓█   ▓██▒   [[red]]░██▓ ▒██▒[[green]]░▒████▒[[blue]]▒██▒ ░  ░░[[magenta]] ████▓▒░░[[cyan]]██▓ ▒██▒[[yellow]]  ▒██▒ ░ [[reset]]
-[[black-bright-background]][[red]]░▓  ░[[green]] ▒░   ▒ ▒ ▒[[blue]] ▒▓▒ ▒ ░[[magenta]]  ▒ ░░    [[cyan]]▒▒   ▓▒█░   [[red]]░ ▒▓ ░▒▓░[[green]]░░ ▒░ ░[[blue]]▒▓▒░ ░  ░░[[magenta]] ▒░▒░▒░ ░[[cyan]] ▒▓ ░▒▓░[[yellow]]  ▒ ░░   [[reset]]
-[[black-bright-background]][[red]] ▒ ░░[[green]] ░░   ░ ▒░░[[blue]] ░▒  ░ ░[[magenta]]    ░     [[cyan]] ▒   ▒▒ ░   [[red]]  ░▒ ░ ▒░[[green]] ░ ░  ░[[blue]]░▒ ░      [[magenta]] ░ ▒ ▒░  [[cyan]] ░▒ ░ ▒░[[yellow]]    ░    [[reset]]
-[[black-bright-background]][[red]] ▒ ░ [[green]]  ░   ░ ░ ░[[blue]]  ░  ░  [[magenta]]  ░       [[cyan]] ░   ▒      [[red]]  ░░   ░ [[green]]   ░   [[blue]]░░       ░[[magenta]] ░ ░ ▒   [[cyan]] ░░   ░ [[yellow]]  ░      [[reset]]
-[[black-bright-background]][[red]] ░   [[green]]        ░  [[blue]]     ░  [[magenta]]          [[cyan]]     ░  ░   [[red]]   ░     [[green]]   ░  ░[[blue]]          [[magenta]]   ░ ░   [[cyan]]  ░     [[yellow]]         [[reset]]
-                                                                                                  
 
-                                           [[black-bright-background]][[white]]Codded By Crevil[[reset]]
-                                            [[black]]Version :- 2.01[[reset]]
+░█▀▀█ ░█▀▀▀ ░█▀▀█ ░█▀▀▀█ ░█▀▀█ ▀▀█▀▀ 
+░█▄▄▀ ░█▀▀▀ ░█▄▄█ ░█──░█ ░█▄▄▀ ─░█── 
+░█─░█ ░█▄▄▄ ░█─── ░█▄▄▄█ ░█─░█ ─░█── 
 
-                                           [[red]]Youtube :- [[blue]]@Crevil[[reset]]
-                                       [[red]]Telegram :- [[blue]]@HackerExploits[[reset]]
+░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ 
+░█▀▀▄ ░█──░█ ─░█── 
+░█▄▄█ ░█▄▄▄█ ─░█──
+                                           [[black-bright-background]][[white]]Codded By Abhishek Suresh[[reset]]
+                                            [[black]]Version :- 1.00[[reset]]
+
+                                           [[red]]Youtube :- [[blue]]@Comedy Melody CH[[reset]]
+                                       [[red]]Instagram :- [[blue]]@abhishek_ser[[reset]]
 '''
 
 def print_logo():
