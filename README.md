@@ -50,7 +50,7 @@ No need to install git in linux or termux
 ### INSTALLATION [Windows]
 [Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
 
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://github.com/AbhishekSuresh2/InstaReport`
 * `cd instareport`
 * `pip install -r requirements.txt`
 * `python ReportBot.py`
@@ -62,7 +62,7 @@ No need to install git in linux or termux
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://github.com/AbhishekSuresh2/InstaReport`
 * `cd instareport`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
