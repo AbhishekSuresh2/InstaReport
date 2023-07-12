@@ -40,11 +40,11 @@ def find_proxies ():#line:29
 [[black-bright-background]][[red]]Note - Use At Your Own Risk. The Developer Of This Software Will Not 
         Be Hold Liable For Any Bad Activities You Do![[reset]]
 
-                    [[black]]Codded By Crevil[[reset]]
+                    [[black]]Codded By Abhishek Suresh[[reset]]
 
-                [[red]]Github :- [[blue]]@Crevils[[reset]]
-                [[red]]Youtube :- [[blue]]@Crevil[[reset]]
-                [[red]]Telegram :- [[blue]]@HackerExploits[[reset]] 
+                [[red]]Github :- [[blue]]@AbhishekSuresh2[[reset]]
+                [[red]]Youtube :- [[blue]]@Comedy Melody CH[[reset]]
+                [[red]]Instagram :- [[blue]]@abhishek_ser[[reset]] 
 
 
 [[red]][ 1 ][[reset]] [[green]]HTTPS[[reset]]
@@ -53,7 +53,7 @@ def find_proxies ():#line:29
 [[red]][ 4 ][[reset]] [[green]]SOCKS5[[reset]] 
 '''))#line:54
     print (Fore .RESET +' ')#line:55
-    O000OOOOOO0O0O0OO =input (Fore .LIGHTWHITE_EX +"Choose Type of Proxy : ")#line:56
+    O000OOOOOO0O0O0OO =input (Fore .LIGHTWHITE_EX +"Choose A Proxy Type : ")#line:56
     if (O000OOOOOO0O0O0OO =="1"):#line:57
         for OO00OOO000OO0O000 in range (number ):#line:58
             OOOO0OO00O0000OO0 =https [OO00OOO000OO0O000 ]#line:59
@@ -91,8 +91,8 @@ def find_proxies ():#line:29
 if __name__ =="__main__":#line:91
     try :#line:92
         find_proxies ()#line:93
-        print ("All Proxy's Successfully Generated And Saved To File! Now use them to mass report")#line:94
+        print ("All Proxy's Successfully Generated And Saved To File! Now Use Them To Mass Report")#line:94
     except KeyboardInterrupt :#line:95
-        print ("\n\n"+Fore .RED +"[*] Program is closing!")#line:96
+        print ("\n\n"+Fore .RED +"[*] Program Is Closing!")#line:96
         print (Style .RESET_ALL )#line:97
         _exit (0 )#line:98
