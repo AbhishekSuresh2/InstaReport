@@ -22,7 +22,7 @@ Works On
 
 
 
-<a href="https://t.me/crevilbot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="wa.me//+919074692450"><img src="https://img.shields.io/badge/WhatsApp-008000?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 ## Requirements
 [Python3 Or Above](https://www.python.org/downloads/)
@@ -41,7 +41,7 @@ No need to install git in linux or termux
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/Crevils/InstaReport`
+* `git clone https://github.com/AbhishekSuresh2/InstaReport`
 * `cd instareport`
 * `pip install -r requirements.txt`
 * `chmod +x *`
@@ -69,7 +69,7 @@ No need to install git in linux or termux
 * `sudo bash setup.sh`
 
 ## Stats
-<a href="https://github.com/Crevils/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=crevils&theme=blue-green"></a>
+<a href="https://github.com/AbhishekSuresh2/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=abhisheksuresh2&theme=blue-green"></a>
 
 <p align="left">
   <a href="">
@@ -78,19 +78,5 @@ No need to install git in linux or termux
 </p>
 
 
-## **[Buy Premium](https:t.me/crevilBot) InstaReport Tool or [contact](https://t.me/crevilbot) me personally for banning account**
-
-
-# DONATION
-```Help us to keep this project alive and maintained by donating. Thanks```
-
-<a href="https://commerce.coinbase.com/checkout/992a5a00-182e-48fa-b991-49e2fbdab01c"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
-
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
-
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
-#####Watch Video Tutorial : 
-<a href="https://youtu.be/MsHJrjeFsNQ"><img src="https://img.shields.io/badge/Video%20Tutorial-red.svg?logo=Youtube"></a>
-<a href="https://t.me/hackerExploits"><img src="https://img.shields.io/badge/Reprt%20Bugs-greeen.svg?logo=Bugs"></a>
