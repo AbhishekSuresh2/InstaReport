@@ -37,7 +37,7 @@ def clearConsole():
 def parse_proxy_file(fpath):
     if (path.exists(fpath) == False):
         print("")
-        print_error("Proxy file not found! (I wonder if you're taking the wrong path?)")
+        print_error("Proxy File Not Found! (I wonder if you're taking the wrong path?)")
         print_error("Exiting From Program")
         exit(0)
     
@@ -57,7 +57,7 @@ def parse_proxy_file(fpath):
         proxies = random.choices(proxies, 50)
         
     print("")
-    print_success(str(len(proxies)) + " Proxies have been installed!")
+    print_success(str(len(proxies)) + " Proxies Have Been Installed!")
 
     return proxies
 
